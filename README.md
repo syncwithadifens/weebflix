@@ -3,8 +3,9 @@
 Aplikasi flutter sederhana menampilkan list anime dari api https://gogoanime.herokuapp.com/
 
 Syarat submission:
-[x] Terdapat Gambar
-[x] Terdapat Text
+
+- [x] Terdapat Gambar
+- [x] Terdapat Text
 
 ### Preview
 
